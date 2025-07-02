@@ -1,9 +1,7 @@
 ### Hi there 👋
-👋 Hello, I'm ROHAN, a passionate student at COLLEGE OF ENGINEERING POONJAR with a love for technology and a commitment to creating meaningful solutions. I thrive on the excitement of tackling complex challenges and transforming ideas into practical, elegant solutions.
+👋 Hello, I'm ROHAN, a passionate Btech Graduate with a love for technology and a commitment to creating meaningful solutions. I thrive on the excitement of tackling complex challenges and transforming ideas into practical, elegant solutions.
 <br />
 
-- 🌱 I’m currently learning FULL STACK WEB DEVELOPMENT
-- 👯 I’m looking to collaborate on REACT PROJECTS
 
 
 <a href="https://www.linkedin.com/in/rohan-das-p-11699b22a" target="_blank">
