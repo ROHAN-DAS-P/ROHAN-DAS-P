@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Das P</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Computer Science Engineer</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Computer Science Engineer </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohan-das-p">
