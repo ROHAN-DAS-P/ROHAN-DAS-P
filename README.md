@@ -15,7 +15,7 @@
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
 I’m a **Full Stack Developer and AI enthusiast** focused on building **production-ready web applications** using **React, Node.js, Express, and secure JWT authentication**.  
 I’m currently developing an **AI Virtual Gym Trainer** using **OpenCV and MediaPipe** for real-time posture tracking and fitness guidance.  
